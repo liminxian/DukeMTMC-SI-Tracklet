@@ -11,8 +11,7 @@ You can download the DukeMTMC-SI-Tracklet dataset from
 [[Google Drive]](https://drive.google.com/open?id=1JR7z3sCyCC23nziYHDATClJwnCW39z5b)
 
 ### Related Datasets
-[DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/details.html)
-
+[DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/details.html)<br/>
 [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation)
 
 [DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
