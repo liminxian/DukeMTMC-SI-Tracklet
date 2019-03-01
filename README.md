@@ -21,13 +21,13 @@ You can download the DukeMTMC-SI-Tracklet dataset from
 ### References
 - [1] Minxian Li, Xiatian Zhu, Shaogang Gong. [Unsupervised Tracklet Person Re-Identification](http://www.eecs.qmul.ac.uk/~sgg/papers/LiEtAl_PAMI2019.pdf). TPAMI 2019.
 
-- [2] Ristani, Ergys and Solera, Francesco and Zou, Roger and Cucchiara, Rita and Tomasi, Carlo. [Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking](https://users.cs.duke.edu/~tomasi/papers/ristani/ristaniBmtt16.pdf). ECCVWS 2016.
+- [2] Ergys Ristani, Francesco Solera, Roger S. Zou, Rita Cucchiara, Carlo Tomasi. [Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking](https://users.cs.duke.edu/~tomasi/papers/ristani/ristaniBmtt16.pdf). ECCVWS 2016.
 
 **Please cite** the following two papers if this dataset helps your research.
 ```
 @article{LiTPAMI2019,
  title={Unsupervised Tracklet Person Re-Identification},
- author = {Minxian Li, Xiatian Zhu, Shaogang Gong},
+ author = {Li, Minxian and Zhu, Xiatian and Gong, Shaogang},
  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
  year={2019}
 }
