@@ -15,7 +15,7 @@ You can download the DukeMTMC-SI-Tracklet dataset from
 
 [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation)
 
-[DukeMTMC-VIdeoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
+[DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)
 
 [MARS](http://www.liangzheng.com.cn/Project/project_mars.html)
 
