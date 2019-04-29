@@ -1,13 +1,13 @@
 # DukeMTMC-SI-Tracklet
 
-DukeMTMC-SI-Tracklet [1] is an auto-detected tracklets subset of the [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) tracking dataset [2] for tracklet-based person re-identification.
+DukeMTMC-SI-Tracklet [1] is an auto-detected tracklets subset of the [DukeMTMC] tracking dataset [2] for tracklet-based person re-identification.
 
 We built this new tracklet person re-id dataset as follows. We first deployed an efficient deep learning tracker that leverages a COCO+PASCAL trained SSD for pedestrian detection and an ImageNet trained Inception for person appearance matching. Applying this tracker to all DukeMTMC raw videos, we generated 19,135 person tracklets. Due to the inevitable detection and tracking errors caused by background clutters and visual ambiguity, these tracklets may present typical mistakes (e.g.ID switch) and corruptions (e.g. occlusion).
 
 We finally obtained 12,647 person tracklets from 1,788 unique IDs. To match DukeMTMC-ReID and DukeMTMC-VideoReID, we set the same 702 training IDs with the remaining 1,086 people for performance test (missing 14 test IDs against DukeMTMC-ReID due to tracking failures).
 
 ### Dataset Offline
-According to the request of Duke University, we have to remove the link of DukeMTMC-SI-Tracklet dataset and make it offline until getting any further inform. We are really sorry about that.
+Due to unforeseen circumstances, the DukeMTMC benchmark dataset and its derivatives including the DukeMTMC-SI-Tracklet dataset have been requested to be removed from online until further notice. We sincerely apologize for any inconvenience caused.
 
 ### References
 - [1] Minxian Li, Xiatian Zhu, Shaogang Gong. [Unsupervised Tracklet Person Re-Identification](http://www.eecs.qmul.ac.uk/~sgg/papers/LiEtAl_PAMI2019.pdf). TPAMI 2019.
