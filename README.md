@@ -7,8 +7,9 @@ We built this new tracklet person re-id dataset as follows. We first deployed an
 We finally obtained 12,647 person tracklets from 1,788 unique IDs. To match DukeMTMC-ReID and DukeMTMC-VideoReID, we set the same 702 training IDs with the remaining 1,086 people for performance test (missing 14 test IDs against DukeMTMC-ReID due to tracking failures).
 
 ### Download Dataset
-You can download the DukeMTMC-SI-Tracklet dataset from
-[[Google Drive]](https://drive.google.com/open?id=1JR7z3sCyCC23nziYHDATClJwnCW39z5b)
+# You can download the DukeMTMC-SI-Tracklet dataset from
+# [[Google Drive]](https://drive.google.com/open?id=1JR7z3sCyCC23nziYHDATClJwnCW39z5b)
+Considering the privacy reason, we have to remove the link of this dataset.
 
 ### Related Datasets
 [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/details.html)<br/>
