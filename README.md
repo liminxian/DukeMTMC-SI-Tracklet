@@ -7,17 +7,7 @@ We built this new tracklet person re-id dataset as follows. We first deployed an
 We finally obtained 12,647 person tracklets from 1,788 unique IDs. To match DukeMTMC-ReID and DukeMTMC-VideoReID, we set the same 702 training IDs with the remaining 1,086 people for performance test (missing 14 test IDs against DukeMTMC-ReID due to tracking failures).
 
 ### Download Dataset
-% You can download the DukeMTMC-SI-Tracklet dataset from
-% [[Google Drive]](https://drive.google.com/open?id=1JR7z3sCyCC23nziYHDATClJwnCW39z5b)
 Considering the privacy reason, we have to remove the link of this dataset.
-
-### Related Datasets
-[DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/details.html)<br/>
-[DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation)<br/>
-[DukeMTMC-VideoReID](https://github.com/Yu-Wu/DukeMTMC-VideoReID)<br/>
-[MARS](http://www.liangzheng.com.cn/Project/project_mars.html)<br/>
-[iLIDS-VID](http://www.eecs.qmul.ac.uk/~xiatian/downloads_qmul_iLIDS-VID_ReID_dataset.html)<br/>
-[PRID2011](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/prid11/)
 
 ### References
 - [1] Minxian Li, Xiatian Zhu, Shaogang Gong. [Unsupervised Tracklet Person Re-Identification](http://www.eecs.qmul.ac.uk/~sgg/papers/LiEtAl_PAMI2019.pdf). TPAMI 2019.
