@@ -1,6 +1,6 @@
 # DukeMTMC-SI-Tracklet
 
-DukeMTMC-SI-Tracklet [1] is an auto-detected tracklets subset of the [DukeMTMC] tracking dataset [2] for tracklet-based person re-identification.
+DukeMTMC-SI-Tracklet [1] is an auto-detected tracklets subset of the DukeMTMC tracking dataset [2] for tracklet-based person re-identification.
 
 We built this new tracklet person re-id dataset as follows. We first deployed an efficient deep learning tracker that leverages a COCO+PASCAL trained SSD for pedestrian detection and an ImageNet trained Inception for person appearance matching. Applying this tracker to all DukeMTMC raw videos, we generated 19,135 person tracklets. Due to the inevitable detection and tracking errors caused by background clutters and visual ambiguity, these tracklets may present typical mistakes (e.g.ID switch) and corruptions (e.g. occlusion).
 
